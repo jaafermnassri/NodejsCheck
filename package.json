@@ -1,0 +1,23 @@
+{
+  "name": "webmaster",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaafermnassri/node_test.git"
+  },
+  "author": "jaafer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaafermnassri/node_test/issues"
+  },
+  "homepage": "https://github.com/jaafermnassri/node_test#readme",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.8.0"
+  }
+}
